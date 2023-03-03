@@ -1,5 +1,5 @@
 # Feature Title
-新機能のタイトル
+新機能のタイトルやサマリ
 
 # Current Problem
 現状の課題
