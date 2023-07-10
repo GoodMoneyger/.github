@@ -5,7 +5,7 @@
   <a href="http://twitter.com/tossyshimizu">
     <img height="20" src="https://img.shields.io/twitter/follow/tossyshimizu?label=Twitter&logo=twitter&style=flat" />
   </a>
-<h3 align="left">
+<div align="left">
   以下を満たすためのプロダクト・コンサルティングサービスを創り、届けます。 品質保証の業務効率化を通し、安全で持続可能な社会を実現します。<br />
   <ul>
     <li>品質、安全性、スペック等の全情報をデジタル化する</li>
@@ -13,7 +13,7 @@
     <li>多様化、複雑化する法令や規格を適切に順守する</li>
   </ul>
   私たちは、「品質保証業務に関わるソフトウェア」のみならず、 「品質保証業務の課題に対する優れた解決策」を提供します。
-</h2>
+</div>
 
 - 🔭 I’m currently working on [ケミカン](https://sdsocr.com)
 - 🏢 Our corporate site is [株式会社ケミカン](https://chemican.net/)
