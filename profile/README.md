@@ -1,10 +1,12 @@
 <h1 align="left">Hi 👋, I'm ケミカン</h1>
-  <a href="https://github.com/GoodMoneyger">
-    <img src="https://komarev.com/ghpvc/?username=GoodMoneyger" alt="GoodMoneyger" />
-  </a>
-  <a href="http://twitter.com/tossyshimizu">
-    <img height="20" src="https://img.shields.io/twitter/follow/tossyshimizu?label=Twitter&logo=twitter&style=flat" />
-  </a>
+
+<img src="https://github.com/GoodMoneyger/.github/blob/main/profile/hero.png" alt="hero" />
+<a href="https://github.com/GoodMoneyger">
+  <img src="https://komarev.com/ghpvc/?username=GoodMoneyger" alt="GoodMoneyger" />
+</a>
+<a href="http://twitter.com/tossyshimizu">
+  <img height="20" src="https://img.shields.io/twitter/follow/tossyshimizu?label=Twitter&logo=twitter&style=flat" />
+</a>
 <div align="left">
   以下を満たすためのプロダクト・コンサルティングサービスを創り、届けます。 品質保証の業務効率化を通し、安全で持続可能な社会を実現します。<br />
   <ul>
