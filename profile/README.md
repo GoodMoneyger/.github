@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on [ケミカン](https://sdsocr.com)
 - 🏢 Our corporate site is [株式会社ケミカン](https://chemican.net/)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodMoneyger&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 
