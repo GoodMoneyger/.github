@@ -26,8 +26,6 @@ projects: ['GoodMoneyger/26']
 
 ## Actual result
 
-## Frequency
-Always / Sometimes / Once
 
 ## Workaround
 None / how users get around it
