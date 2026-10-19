@@ -4,7 +4,6 @@ about: Propose a new feature or an improvement
 title: '[Area] '
 labels: feature
 type: Feature
-projects: ['GoodMoneyger/26']
 ---
 
 <!-- Use the enhancement label instead of feature for an improvement to something that already exists. -->
