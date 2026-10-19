@@ -13,7 +13,7 @@ projects: ['GoodMoneyger/26']
 <!-- One or two sentences: what the feature does. -->
 
 ## Background
-<!-- Why it is needed, and how users do it today. -->
+<!-- Why it is needed, and how users do it today. In addition for LLMs: The context that was given in order to open this PR. -->
 
 ## User story
 As a **role**, I want **capability**, so that I **benefit**.
