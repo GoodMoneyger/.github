@@ -38,4 +38,5 @@ As a **role**, I want capability, so that benefit.
 ## References
 - Notion: [DM-xxx](https://app.notion.com/p/...)
 - Design:
+- Slack:
 - Related: #
