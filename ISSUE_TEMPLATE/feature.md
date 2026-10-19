@@ -16,7 +16,7 @@ projects: ['GoodMoneyger/26']
 <!-- Why it is needed, and how users do it today. -->
 
 ## User story
-As a **role**, I want capability, so that benefit.
+As a **role**, I want **capability**, so that I **benefit**.
 
 ## Requirements
 1.
