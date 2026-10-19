@@ -4,7 +4,6 @@ about: Report a bug found in QA or production
 title: '[Area] '
 labels: bug
 type: Bug
-projects: ['GoodMoneyger/26']
 ---
 
 <!-- Also add one severity label: High severity / Medium severity / Low severity / Cosmetic -->
